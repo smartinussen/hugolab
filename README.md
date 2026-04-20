@@ -1,3 +1,3 @@
 ### My journey into Hugo as a blog manager
 
-Testing
+Just commited skeleton and theme for now
